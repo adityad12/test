@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aditya Dandwate
-Skills: HTML, CSS, JS, React.js, MongoDB, mongoose, MySQL, JQuery, EJS, Bootstrap, REST API, Node.js, Express.js, Python, C++, Java.
-Email: adityadandwate2003learn@gmail.com
-{{/user}}
